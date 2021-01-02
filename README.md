@@ -1,13 +1,13 @@
 **# CS867-Assignment3**
 
 **Introduction:**
-This repository contains the notebook file and the necessary image files to reproduce the results of the assignment code. The weights are already trained and the link is provided. 
+This repository contains the notebook file and the necessary image files to reproduce the results of the assignment code. The weights are already trained and the links to the weight file and the dataset are provided. 
 
 **Reproducing the results:**
 
 #1  Pre-requisites:
 
-1) The code is run using colab so for most similar results it is advised to run this code on colab with teh gpu available from google. 
+1) The code is run using colab so for most similar results it is advised to run this code on colab with the gpu available from google. 
 
 2) After that you are required to download to dataset to your google drive for ease of access. The google drive link for the dataset is given below. The first link contains the dataset which is used for training and validating. The second link contains the dataset for testing. 
 
