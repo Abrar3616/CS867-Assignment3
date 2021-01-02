@@ -37,3 +37,34 @@ Buildings, Forest, Glacier , Mountain, Sea and Street.
 **#3  Results:**
 The results are given as:
 
+Accuracy Graph:
+
+x-special/nautilus-clipboard
+copy
+file:///home/abrar/Pictures/Screenshot%20from%202021-01-02%2018-48-07.png
+
+Loss Graph: 
+
+x-special/nautilus-clipboard
+copy
+file:///home/abrar/Pictures/Screenshot%20from%202021-01-02%2018-48-16.png
+
+Confusion Matrix:
+
+x-special/nautilus-clipboard
+copy
+file:///home/abrar/Pictures/Screenshot%20from%202021-01-02%2018-48-40.png
+
+Classification Report:
+
+x-special/nautilus-clipboard
+copy
+file:///home/abrar/Pictures/Screenshot%20from%202021-01-02%2019-36-29.png
+
+Confusion Matrix for Visual Data:
+
+x-special/nautilus-clipboard
+copy
+file:///home/abrar/Pictures/Screenshot%20from%202021-01-02%2018-48-51.png
+
+
